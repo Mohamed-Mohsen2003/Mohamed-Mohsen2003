@@ -32,7 +32,7 @@ With **4+ years of experience** and a background **leading a web development tea
 
 ## 🛠️ What I do
 
-| | |
+| Service | What you get |
 |---|---|
 | 🌐 **Web Development** | Custom websites and web applications, from landing pages to full platforms |
 | 🧩 **SaaS, CRM & Dashboards** | Business systems with authentication, analytics, and real workflows |
