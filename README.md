@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Mohamed%20Mohsen&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Full-Stack%20Developer%20%26%20UI%2FUX%20Designer&descAlignY=58&descSize=18" alt="Mohamed Mohsen — Full-Stack Developer & UI/UX Designer" />
+<img src="assets/header.svg" width="100%" alt="Mohamed Mohsen — Full-Stack Developer & UI/UX Designer" />
 
 <a href="https://mohamed-mohsen2003.github.io/mohamed-mohsen-portfolio/">
   <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=22&duration=3000&pause=900&color=2C9CDB&center=true&vCenter=true&width=620&lines=I+build+websites+that+bring+customers;SaaS+platforms+%26+business+dashboards;E-commerce+stores+built+to+sell;Mobile+apps+%26+polished+UI%2FUX;Open+to+freelance+%26+remote+work" alt="What I build" />
@@ -117,6 +117,6 @@ With **4+ years of experience** and a background **leading a web development tea
 
 Have a project in mind? [Message me on Upwork](https://www.upwork.com/freelancers/~018ad82f220b0969e6) or [send an email](mailto:mohamedmohsen.webdeveloper@gmail.com), and I'll reply with a clear plan and timeline.
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=110&section=footer" alt="" />
+<img src="assets/footer.svg" width="100%" alt="" />
 
 </div>
